@@ -1,4 +1,4 @@
-##Kolyx – Delivery Platform
+**Kolyx – Delivery Platform**
 
 About the Project
 
@@ -11,17 +11,23 @@ Note: The business idea and product concept belong to the client. My role was to
 •  Led the end-to-end development of a public delivery platform as the sole software engineer, taking ownership of all technical decisions and software development. 
 •	Delivered the platform's front-end and established the technical foundation for the backend infrastructure.
 
-##Technologies
+**Technologies**
 
-React.js • Node.js • PostgreSQL • Redis • TypeORM • Supabase Auth • AWS Cloud • WebSockets • RESTful APIs • OneSignal • JavaScript
+ React.js • Node.js • PostgreSQL • Redis • TypeORM • Supabase Auth • AWS Cloud • WebSockets • RESTful APIs • OneSignal • JavaScript
 
-##Activities
+**Activities**
 
 •  Developed the complete front-end using React.js, implementing reusable components, responsive interfaces, client-side routing, API integration, form validation, and efficient state management. 
+
 •  Designed and implemented a PostgreSQL relational database with TypeORM, modeling entities, relationships, migrations, and optimized queries while ensuring data integrity and schema consistency. 
-•  Developed RESTful APIs with Node.js to handle authentication, business logic, user management, orders, payments, and communication across application layers. 
+
+•  Developed RESTful APIs with Node.js to handle authentication, business logic, user management, orders, payments, and communication across application layers.
+
 •  Implemented Redis as an in-memory caching layer to improve API performance, optimize session management, and reduce database workload. 
+
 •  Integrated Supabase Auth with Sign in with Apple to provide secure authentication, JWT-based authorization, session management, and role-based access control. 
+
 •  Implemented WebSockets and OneSignal to enable real-time order updates, future delivery tracking, and push notifications. 
+
 •  Currently implementing the AWS Cloud infrastructure to prepare the application for production, focusing on scalable compute resources, networking, storage, monitoring, security, and deployment workflows. 
 •	The front-end is substantially complete, while the backend, database infrastructure, authentication, caching, real-time communication, and cloud infrastructure remain under active development as part of the MVP.
