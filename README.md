@@ -9,6 +9,7 @@ This project was developed as a freelance software engineering engagement for an
 Note: The business idea and product concept belong to the client. My role was to design and develop the software solution.
 
 •  Led the end-to-end development of a public delivery platform as the sole software engineer, taking ownership of all technical decisions and software development. 
+
 •	Delivered the platform's front-end and established the technical foundation for the backend infrastructure.
 
 **Technologies**
@@ -30,4 +31,5 @@ Note: The business idea and product concept belong to the client. My role was to
 •  Implemented WebSockets and OneSignal to enable real-time order updates, future delivery tracking, and push notifications. 
 
 •  Currently implementing the AWS Cloud infrastructure to prepare the application for production, focusing on scalable compute resources, networking, storage, monitoring, security, and deployment workflows. 
+
 •	The front-end is substantially complete, while the backend, database infrastructure, authentication, caching, real-time communication, and cloud infrastructure remain under active development as part of the MVP.
